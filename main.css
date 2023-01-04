@@ -1,0 +1,24 @@
+.row{
+    background-color: rgb(127, 132, 130);
+}
+.vienas {
+    height: 500px;
+    background-color: brown;  
+}
+.du{
+    height: 250px;
+    background-color: blue;
+}
+.trys{
+    height: 250px;
+    background-color: blueviolet;
+}
+.ketur{
+    height: 125px;
+    background-color: bisque;
+
+}
+.ketur2{
+    height: 125px;
+    background-color: aquamarine;
+}
